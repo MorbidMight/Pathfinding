@@ -4,6 +4,6 @@ Dijkstra:
 <img src="https://s5.gifyu.com/images/S8JJG.gif" width="600px">
 
 A*:
-![image](https://github.com/MorbidMight/pathfinding/assets/82610686/1bd1c91c-75a6-41f7-8ae3-d102c52663a9)
+<img src="https://s5.gifyu.com/images/S8JPu.gif" width="600px">
 
 
